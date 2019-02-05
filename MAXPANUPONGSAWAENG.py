@@ -1,4 +1,3 @@
-# แก้โดย SELFBOT-BY:MAX ติดต่อได้ที่เบอร์ 191
 # -*- coding: utf-8 -*-
 import LINEPY
 from LINEPY import *
@@ -12,73 +11,73 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
 #==============================================================================#
-boy = LineClient()
+boy = LineClient("lovepidchaya@gmail.com","love451446")
 #boy = LineClient(authToken=' TOKEN MU CINTA')
 boy.log("Auth Token : " + str(boy.authToken))
 channel = LineChannel(boy)
 boy.log("Channel Access Token : " + str(channel.channelAccessToken))
 #==============================================================================#
-k1 = LineClient()
+k1 = LineClient("lovepidchaya1@gmail.com","love451446")
 #k1 = LineClient(authToken=' TOKEN MU CINTA')
 k1.log("Auth Token : " + str(k1.authToken))
 channel1 = LineChannel(k1)
 k1.log("Channel Access Token : " + str(channel1.channelAccessToken))
 #==============================================================================#
-k2 = LineClient()
+k2 = LineClient("lovepidchaya2@gmail.com","love451446")
 #k2 = LineClient(authToken=' TOKEN MU CINTA')
 k2.log("Auth Token : " + str(k2.authToken))
 channel2 = LineChannel(k2)
 k2.log("Channel Access Token : " + str(channel2.channelAccessToken))
 #==============================================================================#
-k3 = LineClient()
+k3 = LineClient("lovepidchaya3@gmail.com","love451446")
 #k3 = LineClient(authToken=' TOKEN MU CINTA')
 k3.log("Auth Token : " + str(k3.authToken))
 channel3 = LineChannel(k3)
 k3.log("Channel Access Token : " + str(channel3.channelAccessToken))
 #==============================================================================#
-k4 = LineClient()
+k4 = LineClient("lovepidchaya4@gmail.com","love451446")
 #k4 = LineClient(authToken=' TOKEN MU CINTA')
 k4.log("Auth Token : " + str(k4.authToken))
 channel4 = LineChannel(k4)
 k4.log("Channel Access Token : " + str(channel4.channelAccessToken))
 #==============================================================================#
-k5 = LineClient()
+k5 = LineClient("lovepidchaya5@gmail.com","love451446")
 #k5 = LineClient(authToken=' TOKEN MU CINTA')
 k5.log("Auth Token : " + str(k5.authToken))
 channel5 = LineChannel(k5)
 k5.log("Channel Access Token : " + str(channel5.channelAccessToken))
 #==============================================================================#
-k6 = LineClient()
+k6 = LineClient("lovepidchaya6@gmail.com","love451446")
 #k6 = LineClient(authToken=' TOKEN MU CINTA')
 k6.log("Auth Token : " + str(k6.authToken))
 channel6 = LineChannel(k6)
 k6.log("Channel Access Token : " + str(channel6.channelAccessToken))
 #==============================================================================#
-k7 = LineClient()
+k7 = LineClient("lovepidchaya7@gmail.com","love451446")
 #k7 = LineClient(authToken=' TOKEN MU CINTA')
 k7.log("Auth Token : " + str(k7.authToken))
 channel7 = LineChannel(k7)
 k7.log("Channel Access Token : " + str(channel7.channelAccessToken))
 #==============================================================================#
-k8 = LineClient()
+k8 = LineClient("lovepidchaya8@gmail.com","love451446")
 #k8 = LineClient(authToken=' TOKEN MU CINTA')
 k8.log("Auth Token : " + str(k8.authToken))
 channel8 = LineChannel(k8)
 k8.log("Channel Access Token : " + str(channel8.channelAccessToken))
 #==============================================================================#
-k9 = LineClient()
+k9 = LineClient("lovepidchaya9@gmail.com","love451446")
 #k9 = LineClient(authToken=' TOKEN MU CINTA')
 k9.log("Auth Token : " + str(k9.authToken))
 channel9 = LineChannel(k9)
 k9.log("Channel Access Token : " + str(channel9.channelAccessToken))
 #==============================================================================#
-k10 = LineClient()
+k10 = LineClient("lovepidchaya10@gmail.com","love451446")
 #k10 = LineClient(authToken=' TOKEN MU CINTA')
 k10.log("Auth Token : " + str(k10.authToken))
 channel10 = LineChannel(k10)
 k10.log("Channel Access Token : " + str(channel10.channelAccessToken))
 #==============================================================================#
-sw = LineClient()
+sw = LineClient("lovepidchaya11@gmail.com","love451446")
 #sw = LineClient(authToken=' TOKEN MU CINTA')
 sw.log("Auth Token : " + str(sw.authToken))
 channel = LineChannel(sw)
