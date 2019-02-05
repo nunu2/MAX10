@@ -479,7 +479,7 @@ def help():
                   "╠❂͜͡☬➣ " + key + "Mykey\n" + \
                   "╠❂͜͡☬➣ " + key + "Resetkey\n" + \
                   "╠══════════════════╗" + "\n" + \
-                  "╠    BY: SELFBOT-BY:MAX" + "\n" + \
+                  "╠    BY:ℙ𝕚𝕞ℂ𝕙𝕒𝕒" + "\n" + \
                   "╚══════════════════╝" 
     return helpMessage
 
@@ -508,7 +508,7 @@ def help1():
                   "╠❂͜͡☬➣ " + key + "Spamcall:「jumlahnya」\n" + \
                   "╠❂͜͡☬➣ " + key + "Spamcall\n" + \
                   "╠══════════════════╗" + "\n" + \
-                  "╠    BY: SELFBOT-BY:MAX " + "\n" + \
+                  "╠    BY: SELFBOT-ℙ𝕚𝕞ℂ𝕙𝕒𝕒 " + "\n" + \
                   "╚══════════════════╝" 
     return helpMessage1
 
@@ -563,7 +563,7 @@ def help2():
                   "╠❂͜͡☬➣ " + key + "Listprotect\n" + \
                   "╠❂͜͡☬➣ Ketik「 Refresh 」Jika Sudah\n╠❂͜͡☬➣ Menggunakan Command Diatas...\n" + \
                   "╠══════════════════╗" + "\n" + \
-                  "╠    BY: SELFBOT-BY:MAX" + "\n" + \
+                  "╠    BY: SELFBOT-BY:ℙ𝕚𝕞ℂ𝕙𝕒𝕒  " + "\n" + \
                   "╚══════════════════╝" 
     return helpMessage2
     
@@ -572,10 +572,10 @@ def helpbot():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage3 = "╔══════════════════╗" + "\n" + \
-                  "╠  🤖 SELFBOT-BY:MAX 🤖" + "\n" + \
+                  "╠   SELFBOT-BY:ℙ𝕚𝕞ℂ𝕙𝕒𝕒 " + "\n" + \
                   "╚══════════════════╝" + "\n" + \
                   "╔══════════════════╗" + "\n" + \
-                  "╠             🤖 BOT 🤖" + "\n" + \
+                  "╠              BOT " + "\n" + \
                   "╠══════════════════╝" + "\n" + \
                   "╠❂͜͡☬➣ " + key + "Mytoken\n" + \
                   "╠❂͜͡☬➣ " + key + "Cek sider\n" + \
@@ -597,21 +597,21 @@ def helpbot():
                   "╠❂͜͡☬➣ " + key + "Bot2up「Kirim fotonya」\n" + \
                   "╠❂͜͡☬➣ " + key + "Gift:「Mid korban」「Jumlah」\n" + \
                   "╠❂͜͡☬➣ " + key + "Spam:「Mid korban」「Jumlah」\n" + \
-				  "╠❂͜͡☬➣ " + key + "Spamtag:「jumlahnya」\n" + \
+                  "╠❂͜͡☬➣ " + key + "Spamtag:「jumlahnya」\n" + \
                   "╠❂͜͡☬➣ " + key + "Spamtag「@」\n" + \
                   "╠❂͜͡☬➣ " + key + "Spamcall:「jumlahnya」\n" + \
                   "╠❂͜͡☬➣ " + key + "Spamcall\n" + \
-				  "╠❂͜͡☬➣ " + key + "Uppro\n" + \
+                  "╠❂͜͡☬➣ " + key + "Uppro\n" + \
                   "╠❂͜͡☬➣ " + key + "Updategrup\n" + \
                   "╠❂͜͡☬➣ " + key + "Upbot\n" + \
                   "╠❂͜͡☬➣ " + key + "Broadcast:「Text」\n" + \
                   "╠❂͜͡☬➣ " + key + "Setkey「New Key」\n" + \
                   "╠❂͜͡☬➣ " + key + "Mykey\n" + \
                   "╠❂͜͡☬➣ " + key + "Resetkey\n" + \
-				  "╠❂͜͡☬➣ " + key + "Self「on/off」\n" + \
-				  "╠❂͜͡☬➣ " + key + "Hapus chat\n" + \
+                  "╠❂͜͡☬➣ " + key + "Self「on/off」\n" + \
+                  "╠❂͜͡☬➣ " + key + "Hapus chat\n" + \
                   "╠❂͜͡☬➣ " + key + "Remove chat\n" + \
-				  "╠❂͜͡☬➣ " + key + "Leave:「Namagrup」\n" + \
+                  "╠❂͜͡☬➣ " + key + "Leave:「Namagrup」\n" + \
                   "╠══════════════════╗" + "\n" + \
                   "╠          🤖 Blacklist 🤖" + "\n" + \
                   "╠══════════════════╝" + "\n" + \
@@ -629,14 +629,14 @@ def helpbot():
                   "╠❂͜͡☬➣ " + key + "Clearban\n" + \
                   "╠❂͜͡☬➣ " + key + "Refresh\n" + \
                   "╠══════════════════╗" + "\n" + \
-                  "╠    BY: SELFBOT-BY:MAX" + "\n" + \
+                  "╠  BY: SELFBOT-BY: ℙ𝕚𝕞ℂ𝕙𝕒𝕒 " + "\n" + \
                   "╚══════════════════╝"
     return helpMessage3
     
 def infomeme():
     helpMessage4 = """
 ╔══════════════════╗
-╠  🤖 SELFBOT-BY:MAX 🤖
+╠   SELFBOT-BY:ℙ𝕚𝕞ℂ𝕙𝕒𝕒
 ╚══════════════════╝
 ╔══════════════════╗
 ╠    ◄]·✪·List Meme·✪·[►
@@ -670,7 +670,7 @@ def infomeme():
 ╠❂͜͡☬➣ contoh:
 ╠❂͜͡☬➣ Meme@buzz@lu tau?@gatau
 ╠══════════════════╗
-╠    BY: SELFBOT-BY:MAX
+╠   BY: SELFBOT-BY:ℙ𝕚𝕞ℂ𝕙𝕒𝕒
 ╚══════════════════╝
 """
     return helpMessage4
@@ -4323,7 +4323,7 @@ def bot(op):
                                     e = e + 1
                                     end = '\n'
                                     me += str(e) + ". " +boy.getGroup(group).name + "\n"                                    
-                                boy.sendMessage(msg.to,"🤖 BOT Protection\n\n🤖 PROTECT URL :\n"+ma+"\n🤖 PROTECT KICK :\n"+mb+"\n🤖 PROTECT JOIN :\n"+md+"\n🤖 PROTECT CANCEL:\n"+mc+"\n🤖 PROTECT INVITE :\n"+me+"\nTotal「%s」Protect yang aktif" %(str(len(protectqr)+len(protectkick)+len(protectjoin)+len(protectcancel)+len(protectinvite))))
+                                boy.sendMessage(msg.to,"💦 BOT Protection\n\n💦 PROTECT URL :\n"+ma+"\n🤖 PROTECT KICK :\n"+mb+"\n🤖 PROTECT JOIN :\n"+md+"\n🤖 PROTECT CANCEL:\n"+mc+"\n🤖 PROTECT INVITE :\n"+me+"\nTotal「%s」Protect yang aktif" %(str(len(protectqr)+len(protectkick)+len(protectjoin)+len(protectcancel)+len(protectinvite))))
 
                         elif cmd == "respon":
                           if wait["selfbot"] == True:
